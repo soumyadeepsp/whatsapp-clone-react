@@ -1,3 +1,5 @@
+The project is live at - https://whatsapp-clone-7d66d.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
